@@ -1,0 +1,1 @@
+file_types = ["csv", "db", "docx", "html", "jpg", "log", "md", "mp3", "msg", "pdf", "pem", "png", "ps1", "pub", "py", "txt", "xlsx", "xml", "zip"]
